@@ -1,0 +1,193 @@
+<view>
+  <view>
+    <cover-image src="../../image/header-bg-m.jpg"></cover-image>
+    <view class="top">
+      <cover-image src="../../image/header-logo.png"></cover-image>
+    </view>
+    <view class="top_one">
+      <cover-image src="../../image/slogan.png"></cover-image>
+    </view>
+    <view class="top_bottom">立即投稿</view>
+    <view class="top_bottoms">
+      <cover-image src="../../image/arr-down.png"></cover-image>
+      <cover-image src="../../image/arr-down.png"></cover-image>
+    </view>
+  </view>
+  <view class="center">
+    <view>
+      <view class="center_top">征集主题</view>
+      <view class="center_top_g"></view>
+      <view>
+        <view class="center_top_zi">
+          本次围绕“抗疫”主题征集,包括但不限于以包括但不限于以下方向,欢迎大家踊跃发挥创意。
+        </view>
+        <cover-image src="../../image/s-science.png" class="center_top_img"></cover-image>
+        <view class="center_top_bottom">抗疫卫生科普</view>
+      </view>
+    </view>
+    <view>
+      <view>
+        <view class="center_top_zi">
+          不局限于本次新冠肺炎，可以增加非典，禽流感等，科普传染病防治知识，提高全民卫生保健意识。
+        </view>
+        <cover-image src="../../image/s-story.png" class="center_top_img"></cover-image>
+        <view class="center_top_bottom">新冠肺炎抗疫故事</view>
+      </view>
+    </view>
+
+    <view>
+      <view>
+        <view class="center_top_zi">
+          记录本次疫情期间普通老百姓亲身经历的故事，可考虑做剧情向游戏，互动电影游戏。
+        </view>
+        <cover-image src="../../image/s-angel.png" class="center_top_img"></cover-image>
+        <view class="center_top_bottom">致敬白衣天使</view>
+      </view>
+    </view>
+    <view>
+      <view>
+        <view class="center_top_zi">
+          通过游戏的方式，让大众了解医务工作者在本次抗疫作战中的伟大贡献︰与时间赛跑与病毒顽强作战、集体主义奉献精神等......可考虑做策略类、动作类游戏。
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class="center_center">
+    <view class="center_top">帮助项目</view>
+    <view class="center_top_g"></view>
+    <view class="center_top_zi">本次规则仅适用于“战疫”特别版,WeCare第四期即将开启，敬请期待!</view>
+    <view class="center_center_top">
+      <view class="center_center_one">
+        <cover-image src="../../image/cover.png" class="center_center_img"></cover-image>
+        <view class="center_center_two">
+          <view class="center_center_zi">花季少女盼重生</view>
+          <view class="center_center_three">
+            <view>贵州</view>
+            <view>儿童</view>
+            <view>疾病救助</view>
+          </view>
+          <view class="center_center_zis">即将迈入大学校门的十八岁少女，如何面对自己白血病三七的命运?</view>
+        </view>
+      </view>
+      <view class="center_center_four">发起机构︰南阳市卧龙区社会救助服务中心</view>
+      <view class="center_center_four">善款接收:哎呦未来基金会</view>
+      <view class="center_center_k"></view>
+    </view>
+
+    <view class="center_center_top">
+      <view class="center_center_one">
+        <cover-image src="../../image/cover.png" class="center_center_img"></cover-image>
+        <view class="center_center_two">
+          <view class="center_center_zi">花季少女盼重生</view>
+          <view class="center_center_three">
+            <view>贵州</view>
+            <view>儿童</view>
+            <view>疾病救助</view>
+          </view>
+          <view class="center_center_zis">即将迈入大学校门的十八岁少女，如何面对自己白血病三七的命运?</view>
+        </view>
+      </view>
+      <view class="center_center_four">发起机构︰南阳市卧龙区社会救助服务中心</view>
+      <view class="center_center_four">善款接收:哎呦未来基金会</view>
+      <view class="center_center_k"></view>
+    </view>
+    <view class="center_center_top">
+      <view class="center_center_one">
+        <cover-image src="../../image/cover.png" class="center_center_img"></cover-image>
+        <view class="center_center_two">
+          <view class="center_center_zi">花季少女盼重生</view>
+          <view class="center_center_three">
+            <view>贵州</view>
+            <view>儿童</view>
+            <view>疾病救助</view>
+          </view>
+          <view class="center_center_zis">即将迈入大学校门的十八岁少女，如何面对自己白血病三七的命运?</view>
+        </view>
+      </view>
+      <view class="center_center_four">发起机构︰南阳市卧龙区社会救助服务中心</view>
+      <view class="center_center_four">善款接收:哎呦未来基金会</view>
+      <view class="center_center_k"></view>
+    </view>
+
+  </view>
+  <view class="bottom_top">
+    <view class="center_top">特别版参加流程</view>
+    <view class="center_top_g"></view>
+    <view class="bottom_box">
+      <view class="bottom_left">
+        <view>
+          <view class="bottom_quan1">
+          <view class="bottom_quan2"> </view>
+        </view>
+        <view class="bottom_xian"></view>
+        <view class="bottom_quan1">
+          <view class="bottom_quan2"> </view>
+        </view>
+        <view class="bottom_xian"></view>
+        <view class="bottom_quan1">
+          <view class="bottom_quan2"> </view>
+        </view>
+        <view class="bottom_xian"></view>
+        <view class="bottom_quan1">
+          <view class="bottom_quan2"> </view>
+        </view>
+        <view class="bottom_xian"></view>
+        </view>
+       <view class="bottom_jiao"></view>
+      </view>
+      <view class="bottom_right">
+        <view  class="bottom_right_item">
+          <view>
+            <cover-image src="../../image/process-1.svg" class="item_img"></cover-image>
+          </view>
+          <view>
+            <view class="bottom_right_item_zi">6月10日</view>
+            <view  class="bottom_right_item_zi">投稿开始</view>
+          </view>
+        </view>
+        <view  class="bottom_right_item">
+          <view>
+            <cover-image src="../../image/process-2.svg" class="item_img"></cover-image>
+          </view>
+          <view>
+            <view class="bottom_right_item_zi">6月24日</view>
+            <view  class="bottom_right_item_zi">入围公布</view>
+          </view>
+        </view>
+        <view  class="bottom_right_item">
+          <view>
+            <cover-image src="../../image/process-3.svg" class="item_img"></cover-image>
+          </view>
+          <view>
+            <view class="bottom_right_item_zi">6月30日-9月30日</view>
+            <view  class="bottom_right_item_zi">制作周期</view>
+          </view>
+        </view>
+        <view  class="bottom_right_item">
+          <view>
+            <cover-image src="../../image/process-4.svg" class="item_img"></cover-image>
+          </view>
+          <view>
+            <view class="bottom_right_item_zi">10月起</view>
+            <view  class="bottom_right_item_zi">投放周期</view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="foot">
+    <view>
+      <cover-image src="../../image/foot-logo.png" class="foot_img"></cover-image>
+    </view>
+    <view class="foot_zi">
+      主办方：腾讯公益慈善基金会
+    </view>
+    <view class="foot_zi">
+      合作方：微信小游戏、微信小程序、腾讯功能游戏
+    </view>
+    <view class="foot_zi">
+      Copyright © 1998--2020 Tencent All Rights Reserved.
+    </view>
+  </view>
+</view>
